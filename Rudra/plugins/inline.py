@@ -18,7 +18,7 @@ async def help_menu_logo(answer):
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of Piku-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of Rudra-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
 Piku Userbot » {__version__} ✨...
@@ -41,7 +41,7 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-Piku Userbot » {__version__} ✨...
+Rudra Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
