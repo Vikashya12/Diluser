@@ -1,4 +1,4 @@
-import asynci
+import asyncio
 
 from .. import *
 from .. import __version__
