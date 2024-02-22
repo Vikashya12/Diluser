@@ -4,7 +4,6 @@ from ..modules.utils import *
 
 from pyrogram import *
 from pytgcalls import StreamType
-from pytgcalls.types.input_stream import *
 from pytgcalls.types.input_stream.quality import *
 
 
